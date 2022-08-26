@@ -457,6 +457,16 @@ function M.setup(config)
     CmpItemKindEnumMember = { fg = c.green1, bg = c.none },
     CmpItemKindOperator = { fg = c.green1, bg = c.none },
     CmpItemKindSnippet = { fg = c.dark5, bg = c.none },
+
+    -- TXT
+    textTitle1 = { fg = c.purple, bg = c.none },
+    textTitle2 = { fg = c.blue1, bg = c.none },
+    textAr = { fg = c.orange, bg = c.none },
+    textBullet = { fg = c.blue0, bg = c.none },
+    textComment = { fg = c.dark5, bg = c.none },
+    textComment2 = { fg = c.teal, bg = c.none },
+    textUnderline = { fg = c.green2, bg = c.none },
+    textCode = { fg = c.red1, bg = c.none },
   }
 
   theme.defer = {}
