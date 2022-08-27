@@ -6,7 +6,7 @@ local tokyonight = {}
 
 tokyonight.normal = {
   a = { bg = colors.blue, fg = colors.black },
-  b = { bg = colors.fg_gutter, fg = colors.blue },
+  b = { bg = colors.fg_lualine, fg = colors.blue },
   c = { bg = colors.bg_statusline, fg = colors.fg_sidebar },
 }
 
