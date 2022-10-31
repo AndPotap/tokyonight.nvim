@@ -467,6 +467,8 @@ function M.setup(config)
     textComment2 = { fg = c.teal, bg = c.none },
     textUnderline = { fg = c.green2, bg = c.none },
     textCode = { fg = c.red1, bg = c.none },
+
+    pythonBP = { fg = c.red1, bg = c.none },
   }
 
   theme.defer = {}
