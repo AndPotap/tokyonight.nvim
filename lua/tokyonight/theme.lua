@@ -468,6 +468,7 @@ function M.setup(config)
     textUnderline = { fg = c.green2, bg = c.none },
     textCode = { fg = c.red1, bg = c.none },
 
+    -- Python
     pythonBP = { fg = c.red1, bg = c.none },
   }
 
