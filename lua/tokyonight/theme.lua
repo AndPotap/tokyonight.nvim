@@ -204,6 +204,7 @@ function M.setup()
     -- TODO:
     -- ["@comment.documentation"] = { },
     ["@bp"] = { fg = c.red }, -- for my python breakpoint
+    ["@bpargs"] = { fg = c.red }, -- for my python breakpoint
     ["@operator"] = { fg = c.blue5 }, -- For any operator: `+`, but also `->` and `*` in C.
     -- ["@operator"] = { fg = c.yellow }, -- For any operator: `+`, but also `->` and `*` in C.
 
